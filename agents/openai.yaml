@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender"
+  short_description: "Strict Blender MCP scene workflow"
+  default_prompt: "Use $blender to plan and run a Blender MCP scene with a strict timeline spec, collection layout, and staged rendering workflow."
